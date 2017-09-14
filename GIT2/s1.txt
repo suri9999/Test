@@ -3,5 +3,6 @@ hello
 how are you
 hii 
 bye
-
+comit
+committed
 
